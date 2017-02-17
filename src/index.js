@@ -41,7 +41,7 @@ var Wrapper = React.createClass({
           <h1>  </h1>
         </div>
         <Timer time={this.state.time}/>
-      <audio id="end-of-time" src="alert.wav" preload="auto"></audio>
+      <audio id="end-of-time" src="alert1.mp3" preload="auto"></audio>
       </div>
     );
   }
